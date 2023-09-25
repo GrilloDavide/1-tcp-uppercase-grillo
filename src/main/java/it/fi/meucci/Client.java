@@ -10,7 +10,7 @@ public class Client {
         
         Scanner inputTastiera = new Scanner(System.in);
                 
-        System.out.println( " Connessione effettuataada" );
+        System.out.println( " Connessione effettuata" );
       
         Socket mioSocket = new Socket( InetAddress.getLocalHost() , 52453);
       
